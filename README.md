@@ -26,12 +26,27 @@ Built using **Next.js, React, Vapi, and Supabase**, it enables **real-time voice
 
 | Dashboard / Recruiter Panel |
 | -------------------------- |
-| *(Wait I'll add screenshot)* |
+| <img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/c1ca5bb0-daf8-4a7a-b5e5-32693ba54ddc" />
+ 
 
-| Candidate Voice Interaction |
+| Fill The Form => Interview Link Ready |
 | -------------------------- |
-| *(Wait I'll add screenshot )* |
+| <img width="1886" height="855" alt="image" src="https://github.com/user-attachments/assets/6332617e-c2d0-41d5-88f7-ee7cf70e31b6" />
 
+ 
+
+ | Paste Interview Link to Start Interview |
+| -------------------------- |
+| <img width="1503" height="862" alt="image" src="https://github.com/user-attachments/assets/93d8a67a-3b16-4e4c-b245-ea736e11dd73" />
+
+ 
+ | Candidate Voice Interaction |
+| -------------------------- |
+| <img width="1857" height="840" alt="image" src="https://github.com/user-attachments/assets/039d5a4a-f794-4777-aa33-202c335a906d" />
+   
+
+| Get The Feedback From AI Recruiter |
+loading---
 ---
 
 ### ⚙️ How to Run Locally
