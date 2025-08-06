@@ -46,7 +46,9 @@ Built using **Next.js, React, Vapi, and Supabase**, it enables **real-time voice
    
 
 | Get The Feedback From AI Recruiter |
-loading---
+
+loading- 
+
 ---
 
 ### ⚙️ How to Run Locally
